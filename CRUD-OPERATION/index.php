@@ -84,7 +84,7 @@
 <body>
 
 
-<form action="inserted.php" method="POST" enctype="multipart/form-data">
+<form action="insert.php" method="POST" enctype="multipart/form-data">
     <h2>Enter Information</h2>
     <input type="text" placeholder="Enter name here" name="name" required><br>
     <input type="text" placeholder="Enter mobile number here" name="mobile" pattern="[0-9]{10}" required><br>
